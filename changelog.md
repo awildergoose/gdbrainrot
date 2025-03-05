@@ -4,4 +4,4 @@
 - Updated the video player to [mat](https://www.github.com/matcool)'s code
 
 # 1.0.0
-- Edit this file to change your mod's changelog.
+- Initial release
