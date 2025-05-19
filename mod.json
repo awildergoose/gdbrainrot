@@ -11,7 +11,7 @@
 	"version": "v1.1.1",
 	"developer": "steve",
 	"description": "ADHD Video players",
-	"repository": "https://www.github.com/SpazElectro/gdbrainrot",
+	"repository": "https://www.github.com/awildergoose/gdbrainrot",
 	"resources": {
 		"files": [
 			"resources/video1.mpg",
